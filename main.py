@@ -25,7 +25,7 @@ from base64 import b64decode
 
 from mydatabase import save_command_to_db
 
-COHERE_API_KEY = "8MJCM6Rt40pogLIr58DlSiEEpDpSdPd3eiPI036s"
+COHERE_API_KEY = "Your-API-Key"
 cohere_client = cohere.Client(COHERE_API_KEY)
 
 engine = pyttsx3.init('sapi5')
