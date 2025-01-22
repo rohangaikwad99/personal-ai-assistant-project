@@ -1,4 +1,4 @@
-Here’s a description of your personal AI assistant project in Java:
+Here’s a description of our personal AI assistant project in python:
 
 ---
 
